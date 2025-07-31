@@ -48,9 +48,8 @@ Visit http://localhost:3000 in your browser
 
 Use this phone number to successfully log in:
 
-```
 +254712345678
-```
+
 
 Any other number will show a validation error.
 
