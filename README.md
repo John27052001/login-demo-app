@@ -96,16 +96,6 @@ src/
 
 ---
 
-## Screenshots
-
-```
-![Login](./screenshots/login.png)
-![Main](./screenshots/main.png)
-![Detail](./screenshots/detail.png)
-```
-
----
-
 ## Submission
 
 - All features implemented
